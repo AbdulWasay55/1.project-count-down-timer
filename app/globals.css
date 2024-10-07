@@ -1,4 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+.name{
+    color: white;
+    text-shadow: 0px 0px 5px white,
+                 0px 0px 15px white,
+                 0px 0px 30px white,
+                 0px 0px 60px white;
+                 font-weight: 700;
+                 font-size: 30px;
+                 margin-bottom: 10px;
+}
